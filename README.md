@@ -4,8 +4,8 @@ Bot jogador de Buraco feito por João Guilherme Lopes Alves da Costa e João Ped
 Descrição do projeto: https://github.com/amccampos/itp-prj-2020.2
 
 Alunos:
-- João Guilherme Lopes Alves da Costa, matrícula 20200045609, turma DIM0133, T02 (246M34)
-- João Pedro Fonseca Dantas, matrícula 20200045162, turma DIM0133, T02 (246M34)
+- João Guilherme Lopes Alves da Costa, matrícula 20200045609, turma DIM0133, T02 (246M34) <a href="https://github.com/joaoguilac">@joaoguilac</a>
+- João Pedro Fonseca Dantas, matrícula 20200045162, turma DIM0133, T02 (246M34) <a href="https://github.com/jopefd">@jopefd</a>
 
 ## :pushpin: CHECKPOINT 1
 
